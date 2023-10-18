@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\bin\Debug\net7.0\CAComparable.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\bin\Debug\net7.0\CAComparable.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\bin\Debug\net7.0\CAComparable.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\bin\Debug\net7.0\CAComparable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\bin\Debug\net7.0\CAComparable.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\refint\CAComparable.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\CAComparable.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAComparable\obj\Debug\net7.0\ref\CAComparable.dll
